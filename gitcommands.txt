@@ -1,0 +1,30 @@
+ 1961  git add
+ 1962  git add .
+ 1963  git status
+ 1964  git commit
+ 1965  vim .bashrc
+ 1966  ls
+ 1967  cd labgit
+ 1968  git commit
+ 1969  git status
+ 1970  git log
+ 1971  vim index.html
+ 1972  git add index.html
+ 1973  git commit
+ 1974  git status
+ 1975  git lof
+ 1976  git log
+ 1977  git diff 4dcd43cb68820f00944ef2f721ef89c938833905 bbbbabd4df80187ef9d72ccc0b69c3371a4166a2
+ 1978  git checkout -b firstbranch
+ 1979  git branch
+ 1980  git checkout master
+ 1981  git config --list
+ 1982  git config core.editor "vim"
+ 1983  git list
+ 1984  git config --list
+ 1985  history > gitcommands.txt
+ 1986  vim gitcommands.txt
+ 1987  rm gitcomands.txt
+ 1988  rm gitcommands.txt
+ 1989  history 10
+ 1990  history 30 > gitcommands.txt
