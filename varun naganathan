@@ -1,0 +1,32 @@
+[33mcommit 245c1a0d0a635380e7c3777fb289b6cedad8c141[m
+Merge: c456820 05e47bc
+Author: varun naganathan <varunnaganathan912@gmail.com>
+Date:   Tue Nov 18 15:10:12 2014 +0530
+
+    Merge branch 'firstbranch'
+    just a test
+    Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit 05e47bccf18a713da90cd54714f8f1232dfe15da[m
+Author: varun naganathan <varunnaganathan912@gmail.com>
+Date:   Tue Nov 18 15:08:50 2014 +0530
+
+    s is the first page of my branch
+
+[33mcommit c456820280a2dc68c316de7112d22d0463514e7d[m
+Author: varun naganathan <varunnaganathan912@gmail.com>
+Date:   Tue Nov 18 15:06:03 2014 +0530
+
+    added a set of commands used in lab
+
+[33mcommit 4dcd43cb68820f00944ef2f721ef89c938833905[m
+Author: varun naganathan <varunnaganathan912@gmail.com>
+Date:   Tue Nov 18 14:50:47 2014 +0530
+
+    just added a 2nd para
+
+[33mcommit bbbbabd4df80187ef9d72ccc0b69c3371a4166a2[m
+Author: varun naganathan <varunnaganathan912@gmail.com>
+Date:   Tue Nov 18 14:48:08 2014 +0530
+
+    first page
